@@ -1,0 +1,25 @@
+body {
+    color: rgb(255, 238, 0);
+    background: black;
+    margin: 1%
+}
+
+header {
+    border-bottom: solid 2px rgb(131, 122, 47);
+    border-left: solid 2px rgb(131, 122, 47);
+    border-top: solid 2px rgb(131, 122, 47);
+    border-right: solid 2px rgb(131, 122, 47);
+    padding: 15px;
+    font-size: 32px;
+    color: rgb(255, 0, 0);
+    font-family: Cinzel, sans-serif;
+}
+
+h1 {
+    color: rgb(201, 0, 0);
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+}
+
+p {
+    color: rgb(129, 128, 52)
+}
